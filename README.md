@@ -1,2 +1,2 @@
-# zookeeper
-A mini project on Hyperskill
+Mini projects on Hyperskill:
+- Zookeeper
